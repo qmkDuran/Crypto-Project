@@ -20,7 +20,6 @@ import axios from "axios"
 import { CoinList } from "../config/api"
 import { useHistory } from "react-router-dom"
 import { CryptoState } from "../CryptoContext"
-import { getByPlaceholderText } from "@testing-library/react"
 
 export function numberWithCommas(x) {
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")
