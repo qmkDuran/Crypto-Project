@@ -6,8 +6,8 @@
 # Crypto Investor
 
 This website is a front end project that that incorporates React and CSS.
-It holds my four most curent projects and the projects are rotated out as I 
-create more. 
+It shows the user the most up to date information on the top cyrptos in the market
+within the last 24 hours, 30 days, 3 months and year. 
 
 
 
