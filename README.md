@@ -5,14 +5,17 @@
 
 # Crypto Investor
 
-This website is a front end project that that incorporates HTML, CSS and Javascript. 
-On the website the user is able to navigate to differnet sections and look at the 
-different products on sale. The products being sold on the site are winter coats to 
-keep warm. 
+This website is a front end project that that incorporates React and CSS.
+It holds my four most curent projects and the projects are rotated out as I 
+create more. 
+
 
 
 ## 🛠 Skills
-- React
+- React 
+- CSS
+- Netlify Deployment
+
 
 ## Link
 
@@ -24,4 +27,5 @@ keep warm.
 
 ## Lessons Learned
 
-- How to use HTML, CSS and JavaScipt.
+- How to use React and CSS
+- How to use Netlify to deploy the website. 
