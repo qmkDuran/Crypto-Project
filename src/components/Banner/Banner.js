@@ -1,5 +1,6 @@
 import { Container, makeStyles, Typography } from "@material-ui/core";
 import Carousel from "./Carousel";
+import "./Banner.css";
 
 const useStyles = makeStyles((theme) => ({
   banner: {
@@ -41,7 +42,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Investor
+          <h4 className="title">Crypto Investor</h4>
           </Typography>
           <Typography
             variant="subtitle2"
